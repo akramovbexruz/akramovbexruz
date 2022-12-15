@@ -3,3 +3,5 @@
 ### Languages and tools I work with:
 
 <code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" width="30px"></code>
+<code><img src="https://seeklogo.com/images/C/css-logo-FD0B685547-seeklogo.com.png" width="30px"></code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" width="30px"></code>
